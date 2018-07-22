@@ -6,7 +6,7 @@
 <h1 id="advanced-python-for-data-science-internal-presentation">Advanced python for Data Science internal presentation</h1>
 <h2 id="t1---parallel-basic">T1 - Parallel basic</h2>
 <ul>
-<li><code>concurrent.futures</code> vs. <code>multiprocess</code> vs. <code>joblib</code> (GIL)  (Shai’s Team)</li>
+<li><code>concurrent.futures</code> vs. <code>multiprocess</code>, GIL (Naor)</li>
 </ul>
 <h2 id="t2---parallel-distributed">T2 - Parallel distributed</h2>
 <ul>
@@ -24,7 +24,7 @@
 <ul>
 <li>Advanced <code>numpy</code> (Tomer)</li>
 <li><code>cupy</code> vs. <code>numpy</code> vs. <code>HPAT</code> (Singer)</li>
-<li><code>numba</code>  (Noam)</li>
+<li><a href="https://docs.google.com/presentation/d/1fJJnd2JwiX_UNQfcsMgBDuURyl_9xZzdml2Aj0iOvzE/edit#slide=id.g3d87873411_0_256/"><code>numba</code>  (Noam)</li>
 <li><code>cython</code> + <code>pandas</code> (Moran)</li>
 </ul>
 <h2 id="t5---advanced-python-1">T5 - Advanced python 1</h2>
