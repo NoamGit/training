@@ -10,8 +10,8 @@
 </ul>
 <h2 id="t2---parallel-distributed">T2 - Parallel distributed</h2>
 <ul>
-<li><code>dask</code> (Shai’s Team)</li>
-<li><a href="https://docs.google.com/presentation/d/1-wP2rR44L00zVbuoQCXQ4QmWiFJsy26GimMxVKL5y14/edit?ts=5b4cc6a4#slide=id.g3d8aAc530ef_0_5/"><code>pyspark</code> (Tom Shlager)</li>
+<li><code>dask</code> (Lior)</li>
+<li><a href="https://docs.google.com/presentation/d/1-wP2rR44L00zVbuoQCXQ4QmWiFJsy26GimMxVKL5y14/edit?ts=5b4cc6a4#slide=id.g3d8aAc530ef_0_5/"><code>pyspark</code> (Tom)</li>
 </ul>
 <h2 id="t3---jupyter-notebook">T3 - Jupyter notebook</h2>
 <ul>
@@ -22,7 +22,7 @@
 </ul>
 <h2 id="t4---acceleratedvectorized-prog.">T4 - Accelerated/Vectorized prog.</h2>
 <ul>
-<li>Advanced <code>numpy</code> (Tomer Ronen)</li>
+<li>Advanced <code>numpy</code> (Tomer)</li>
 <li><code>cupy</code> vs. <code>numpy</code> vs. <code>HPAT</code> (Singer)</li>
 <li><code>numba</code>  (Noam)</li>
 <li><code>cython</code> + <code>pandas</code> (Moran)</li>
