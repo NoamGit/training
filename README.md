@@ -11,7 +11,7 @@
 <h2 id="t2---parallel-distributed">T2 - Parallel distributed</h2>
 <ul>
 <li><code>dask</code> (Shai’s Team)</li>
-<li><code>pyspark</code> (Tom Shlager)</li>
+<li><a href="https://docs.google.com/presentation/d/1-wP2rR44L00zVbuoQCXQ4QmWiFJsy26GimMxVKL5y14/edit?ts=5b4cc6a4#slide=id.g3d8aAc530ef_0_5/"><code>pyspark</code> (Tom Shlager)</li>
 </ul>
 <h2 id="t3---jupyter-notebook">T3 - Jupyter notebook</h2>
 <ul>
