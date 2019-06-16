@@ -41,6 +41,13 @@
 <li>Advanced <code>sklearn</code> (pipeline, infrastructures, utils) (Lior)</li>
 <li>data storage - <strong><code>arrow</code></strong>, <code>sqlite3</code>, <code>sqlalchemy</code>, <code>h5py</code>, <code>parquet</code> (Naor)</li>
 </ul>
+
+<h4>Bonus - Probabilistic programming with PyMC3</h2>
+<ul>
+<a href="https://docs.google.com/presentation/d/1k-0SiilVc7wn912hAqMrEWm6sx7Fx5kYhP2oWsm-Ueg/edit?usp=sharing">
+  Google slides</a>
+</ul>
+
 <h2 id="ref">ref</h2>
 <ul>
 <li><a href="http://people.duke.edu/~ccc14/sta-663-2016/index.html">http://people.duke.edu/~ccc14/sta-663-2016/index.html</a></li>
